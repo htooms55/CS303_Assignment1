@@ -19,3 +19,4 @@ Close the program.
 
 Screenshots: 
 
+<img width="650" height="245" alt="Screenshot 2026-02-16 at 11 50 30 PM" src="https://github.com/user-attachments/assets/186f9fcc-0bb0-4492-8fb7-b62295fc6589" />
